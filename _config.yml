@@ -1,12 +1,7 @@
 title: Social Cognition Lab
-
-
-
-
-
-
-
-theme: jekyll-theme-slate
-
+author: Sam Smith
+theme: minima
+email: samanthasmithotago@gmail.com
+description: Welcome to the Social Cognition Laboratory. Social Cognition is the study of how people represent and manipulate their worlds. This lab is a part of the Department of Psychology of the University of Otago, directed by Professor Jamin Halberstadt.
 github:
   is_project_page: false
