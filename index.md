@@ -1,6 +1,6 @@
 ---
 layout: page
-title: index
+title: about
 ---
 
 ## The study of Social Cognition
