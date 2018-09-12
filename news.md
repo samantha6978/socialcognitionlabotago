@@ -13,8 +13,12 @@ title: news
 
 2017 (September): Marea MC'd the festival 'Silverline Otago' and ran a workshop called 'Becoming comfortable with the uncomfortable: challenging the brave face mentality'. Click here to read more! 
 
+<img src="MareaSilverline.jpg" alt="drawing" width="200"/>
+
 2017 (September): Sam's team won their debate arguing in favour of whether religious people are more moral! Congratulations!   
 
 2017 (August): Congratulations to Chris Jackson, current PhD student, on winning the city council primary! All the best in the general election!  Chris City Council
+
+<img src="otago661301.jpg" alt="drawing" width="500"/>
 
 2017 (February): Brittany was on The Project! Video coming soon! 
