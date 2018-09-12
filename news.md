@@ -4,7 +4,8 @@ title: news
 ---
 
 2018 (August): Jamin was nominated for supervisor of the year, congratulations Jamin! 
-<img src="JaminAward.jpg" alt="drawing" width="200"/>
+
+<img src="JaminAward.jpg" alt="drawing" width="500"/>
 
 2018 (May): PhD student Keren Segal will participate in the Association for Psychological Science convention in San Francisco!
 
